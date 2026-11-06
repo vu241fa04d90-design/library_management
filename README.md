@@ -172,3 +172,4 @@ python manage.py migrate
 - Email reminders before the due date (Django management command + cron)
 - Book cover images and pagination
 - CSV export of loan reports
+"# library_management_system" 
